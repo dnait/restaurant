@@ -1,2 +1,2 @@
 # restaurant
-Laioffer Project Class. A restaurant recommendation app.
+A restaurant recommendation app package.
